@@ -9,10 +9,7 @@
 
 /* css generale */
 body {
-  /* background-image: url("../img/bg.jpg");
-  background-size: cover;
-  background-position: bottom right; */
-  background-color: #393744;
+  background-color: #000000;
 }
 #container {
   width: 100%;
@@ -29,6 +26,7 @@ header {
   height: 60px;
   line-height: 55px;
   background-color: #000000;
+  border-bottom: 1px solid #395537;
   position: fixed;
   top: 0;
   left: 0;
