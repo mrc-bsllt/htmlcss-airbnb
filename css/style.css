@@ -77,6 +77,17 @@ main {
   height: 100%;
   margin: 60px auto;
   padding: 100px 0;
+  position: relative;
+}
+#insertion {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 20px;
+  font-size: 60px;
+  font-family: 'Dancing Script', cursive;
+  text-decoration: underline;
+
 }
 main .city {
   width: 40%;
