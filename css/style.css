@@ -107,8 +107,9 @@ main .city a {
   color: #000000;
   font-style: italic;
   text-decoration: underline;
-  background-color: rgba(218, 139, 54, 0.7);
+  background-color: rgba(218, 139, 54, 0.5);
   font-family: 'Dancing Script', cursive;
+  border-radius: 10px;
 }
 main .city:hover:before {
     content:"";
@@ -121,6 +122,6 @@ main .city:hover:before {
     background-color: rgba(0, 0, 0, 0.5);
 }
 main .city:hover a {
-  font-size: 40px;
+  font-size: 60px;
 }
 /* /css main */
